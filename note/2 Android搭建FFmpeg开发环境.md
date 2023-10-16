@@ -125,7 +125,7 @@ Java_com_study_ffmpegenvbuildapplication_MainActivity_stringFromJNI(
 
 ##### 工程目录结构
 
-![工程目录截图](..\..\..\images\截图\ffmpeg工程目录结构.PNG)
+![工程目录截图](.\image\ffmpeg工程目录结构.PNG)
 
 
 
